@@ -1,0 +1,9 @@
+/* compensate paddings of sections and navbar */
+body {
+  padding-top: 70px;
+}
+
+section {
+  padding-top: 50px;
+  margin-top: -50px;
+}
